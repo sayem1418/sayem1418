@@ -1,15 +1,12 @@
-<!-- ========== HEADER BANNER (NEW) ========== -->
+<!-- ========== HEADER BANNER ========== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abu%20Sayem&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Engineer&descAlignY=58&descSize=20" alt="Header banner" width="100%" />
 </p>
 
-<!-- ========== TYPING ANIMATION (NEW) ========== -->
+<!-- ========== TYPING ANIMATION ========== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Automation+Engineer;n8n+Specialist;Workflow+Builder;I+automate+the+boring+stuff" alt="Typing animation" />
 </p>
-
-<h1 align="center">Abu Sayem</h1>
-<h3 align="center">AI Automation Engineer | n8n Specialist | Workflow Builder</h3>
 
 <p align="center">
   I design and build automation systems that eliminate repetitive work,<br/>
@@ -51,14 +48,13 @@ I am an AI Automation Engineer who helps businesses save time and reduce manual 
   <img src="https://img.shields.io/badge/Webhooks-333333?style=for-the-badge" alt="Webhooks" />
 </p>
 
-<!-- NEW: colorful icon row -->
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,git,github,postman,googlecloud,wordpress,vscode&theme=dark" alt="Skill icons" />
 </p>
 
 ---
 
-## How I Work (NEW)
+## How I Work
 
 | Step | What happens |
 |---|---|
@@ -94,25 +90,7 @@ I am an AI Automation Engineer who helps businesses save time and reduce manual 
   <a href="https://www.fiverr.com/s/kXX5gdA"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayem1418&show_icons=true&theme=radical" height="170px" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayem1418&layout=compact&theme=radical" height="170px" alt="Top languages" />
-</p>
-
-<!-- NEW: streak and activity graph -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sayem1418&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayem1418&theme=react-dark&hide_border=true" alt="Activity graph" width="100%" />
-</p>
-
-<!-- ========== FOOTER BANNER (NEW) ========== -->
+<!-- ========== FOOTER BANNER ========== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer banner" width="100%" />
 </p>
